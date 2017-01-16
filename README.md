@@ -1,0 +1,1 @@
+Counts occurances of each word in a large batch of text. Maps jobs to a configurable amount of nodes to compare when overhead from splitting up jobs overwhelms performance gains from running in paralell.
